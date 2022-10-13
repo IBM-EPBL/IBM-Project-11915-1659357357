@@ -1,6 +1,2 @@
-# Ranesh A
-## Roll No: 19I339
-### Question 1
-Fetch deatils from Registration Page and display them in a table using HTML and create an External CSS
-### Question 2
-Create a sample flask app to demonstrate HTTP methods (GET,PUT,POST,DELETE)
+# Output
+![Output image](https://github.com/IBM-EPBL/IBM-Project-11915-1659357357/blob/main/Assignments/(Team%20Member%204)%20-%2019I339%20-%20RaneshA/Assignment1/1.RegistrationForm/output.png)
