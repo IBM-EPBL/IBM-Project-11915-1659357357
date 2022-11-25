@@ -8,3 +8,6 @@ Team Members:
 4. Ranesh A (19I339)
 
 PSG College of Technology
+
+Website link : http://159.122.174.135:31230/
+Video link : https://youtu.be/7JPDApzguTs
